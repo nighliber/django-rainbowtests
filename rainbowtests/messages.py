@@ -40,15 +40,15 @@ happy_messages.append("""
 
 sad_messages.append("""
 
-        （╯°□°）╯︵ ┻━┻
-        AAAAAAAAAARGGGGGGGGGG!!!
+（╯°□°）╯︵ ┻━┻
+AAAAAAAAAARGGGGGGGGGG!!!
 
 """)
 
 sad_messages.append("""
 
-        ლ(ಠ益ಠლ)
-        Bloody tests failed AGAIN!
+ლ(ಠ益ಠლ)
+Bloody tests failed AGAIN!
 
 """)
 
